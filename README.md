@@ -4,10 +4,10 @@ Este é um exemplo de uma calculadora simples em Python que suporta operações 
 
 ## Funcionalidades
 
-+ Soma: Adiciona dois números e retorna o resultado.
-- Subtração: Subtrai o segundo número do primeiro e retorna o resultado.
+* Soma: Adiciona dois números e retorna o resultado.
+* Subtração: Subtrai o segundo número do primeiro e retorna o resultado.
 * Multiplicação: Multiplica dois números e retorna o resultado.
-/ Divisão: Divide o primeiro número pelo segundo e retorna o resultado. Se o segundo número for zero, uma mensagem de erro é exibida.
+* Divisão: Divide o primeiro número pelo segundo e retorna o resultado. Se o segundo número for zero, uma mensagem de erro é exibida.
 
 ## Como Usar
 
